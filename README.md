@@ -36,6 +36,9 @@ Esta Prueba se realizó con SQlLITE, debe de ser emulada en un teléfono Android
 
 
 
+	Este Boton lleva a la pantalla principal para ver el listado de Empresas
+	
+	![image](https://user-images.githubusercontent.com/100499132/204151463-6e7dd601-6f91-458b-836a-5513b33f359d.png)
 
 
 
