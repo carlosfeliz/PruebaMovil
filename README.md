@@ -33,12 +33,12 @@ Esta Prueba se realizó con SQlLITE, debe de ser emulada en un teléfono Android
   
   	Paso 6
   ![image](https://user-images.githubusercontent.com/100499132/204150166-d5614313-da2d-4d37-ad19-ff6747730424.png)
+  
 
 
 
 	Este Boton lleva a la pantalla principal para ver el listado de Empresas
-	
-	![image](https://user-images.githubusercontent.com/100499132/204151574-f85effe9-d9e1-49ea-9d37-d2958514896b.png)
+![Imagen7](https://user-images.githubusercontent.com/100499132/204151645-84d5162e-6745-4970-acb9-91b802b2834f.png)
 
 
 
